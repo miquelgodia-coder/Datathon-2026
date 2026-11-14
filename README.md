@@ -7,3 +7,6 @@ L'agent ha de maximitzar l'impacte positiu sobre dues dimensions clau:
 Descarbonització (70% del pes): Minimitzar les emissions de CO2 del campus evitant consumir de la xarxa en les hores en què el mix elèctric peninsular utilitza centrals tèrmiques de cicle combinat.
 Eficiència econòmica (30% del pes): Reduir el cost net de la factura elèctrica important energia en hores de preu vall i descarregant la bateria o consumint solar en hores punta.
 """
+
+hola
+
