@@ -206,4 +206,3 @@ def run_agent_simulation(agent, hourly_data: pd.DataFrame, spec: dict = None):
         action = agent.act(obs)
         obs, done = env.step(action)
     return env.evaluate_results()
-
